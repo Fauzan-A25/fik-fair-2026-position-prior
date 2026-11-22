@@ -1,0 +1,5 @@
+,random CV,blocked CV
+Rata-rata target,12.9104802764213,14.194770132327466
+Model feature-only (tanpa posisi),8.47842853299896,
+Prior posisi saja,2.9657935562434528,4.428703837340829
+Prior + 0.7 × blend residual (akhir),2.3940667555296162,4.307553586357483
